@@ -24,7 +24,7 @@ The following **additional** features are implemented:
 - [x] Split the total bill for multiple guests
 - [x] Round the total amount and update the split bill amoun to use the rounded total
 - [x] Select the tip amount using the 3 preset percents, or use a slider for finer control
-- 
+
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
