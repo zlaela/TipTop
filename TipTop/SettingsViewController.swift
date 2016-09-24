@@ -45,8 +45,6 @@ class SettingsViewController: UIViewController {
         defaultNum.synchronize()
     }
     
-    
-    
     func getDefaults() {
         let defaultSettings = NSUserDefaults.standardUserDefaults()
             
@@ -57,10 +55,8 @@ class SettingsViewController: UIViewController {
         defaultTipPercent.selectedSegmentIndex = Int(index)
         defaultBillAmount.text = String(format: "%.2f", bill)
         defaultNumAttendees.text =  String(format: "%.2f", guests)
-        print(index, bill, guests)
     }
 
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         
