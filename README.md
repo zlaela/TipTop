@@ -1,6 +1,6 @@
 # Pre-work - TipTop
 
-TipTOp is a tip calculator application for iOS.
+TipTop is a tip calculator application for iOS.
 
 Submitted by: Laila
 
